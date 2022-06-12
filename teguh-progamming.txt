@@ -3,3 +3,5 @@ Teguh Progamming
 -Belajar CSS
 -Belajar Javascript
 -Belajar PHP
+-Belajar Python
+-Belajar Goolang
